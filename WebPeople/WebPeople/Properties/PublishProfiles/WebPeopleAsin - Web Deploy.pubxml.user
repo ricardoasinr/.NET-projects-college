@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAsaDdqSwfBECPoPCDbNRzlQAAAAACAAAAAAAQZgAAAAEAACAAAADoACoMKrj8wDQOC1r2ujKgxkB+vLx6/dE+6jRK4+5TBQAAAAAOgAAAAAIAACAAAABmDbcZ2U62x8sCeiJOv34nhSxij5KP8H2pDKVRm4BPBCAAAABfcVDMTlVtmHMGRXbzz4cX3PigJI+hPocwok0cY7JWyUAAAAAy6EIrqpwD+cIHhgd1kLI35XREsOgOSeGgSdipjGfd6R+j3onF3OOs+N2iMWEJewZoe2S0Aov3jqh80tY7vfwO</EncryptedPassword>
+    <History>False|2021-10-05T00:12:22.9055213Z;False|2021-10-01T21:18:00.5128770-04:00;False|2021-10-01T21:15:45.8160046-04:00;False|2021-10-01T21:12:59.9259617-04:00;False|2021-10-01T21:10:24.7931331-04:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+</Project>

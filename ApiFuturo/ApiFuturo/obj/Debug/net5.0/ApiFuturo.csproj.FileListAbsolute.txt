@@ -1,0 +1,270 @@
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\appsettings.Development.json
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\appsettings.json
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ApiFuturo.exe
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ApiFuturo.deps.json
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ApiFuturo.runtimeconfig.json
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ApiFuturo.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ApiFuturo.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ref\ApiFuturo.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ApiFuturo.pdb
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Humanizer.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.Composition.Convention.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.Composition.Hosting.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.Composition.Runtime.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.AssemblyInfo.cs
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.MvcApplicationPartsAssemblyInfo.cs
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.MvcApplicationPartsAssemblyInfo.cache
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\obj\Debug\net5.0\staticwebassets\ApiFuturo.StaticWebAssets.Manifest.cache
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\obj\Debug\net5.0\staticwebassets\ApiFuturo.StaticWebAssets.xml
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\obj\Debug\net5.0\scopedcss\bundle\ApiFuturo.styles.css
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.csproj.CopyComplete
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ref\ApiFuturo.dll
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.pdb
+\\Mac\Home\Desktop\Programación Aplicada\Segundo Parcial\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.genruntimeconfig.cache
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\appsettings.json
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ApiFuturo.exe
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ApiFuturo.deps.json
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ApiFuturo.runtimeconfig.json
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ApiFuturo.runtimeconfig.dev.json
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ApiFuturo.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ref\ApiFuturo.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ApiFuturo.pdb
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.csproj.AssemblyReference.cache
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.AssemblyInfoInputs.cache
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.AssemblyInfo.cs
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.csproj.CoreCompileInputs.cache
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\obj\Debug\net5.0\staticwebassets\ApiFuturo.StaticWebAssets.Manifest.cache
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\obj\Debug\net5.0\staticwebassets\ApiFuturo.StaticWebAssets.xml
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\obj\Debug\net5.0\scopedcss\bundle\ApiFuturo.styles.css
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.RazorTargetAssemblyInfo.cache
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.csproj.CopyComplete
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ref\ApiFuturo.dll
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.pdb
+C:\Users\ricardoasin\source\repos\ApiFuturo\ApiFuturo\obj\Debug\net5.0\ApiFuturo.genruntimeconfig.cache

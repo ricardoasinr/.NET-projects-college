@@ -1,0 +1,340 @@
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/appsettings.Development.json
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/appsettings.json
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/WebPeople.deps.json
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/WebPeople.runtimeconfig.json
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/WebPeople.runtimeconfig.dev.json
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/WebPeople.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/ref/WebPeople.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/WebPeople.pdb
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/WebPeople.Views.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/WebPeople.Views.pdb
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/BouncyCastle.Crypto.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Google.Protobuf.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Humanizer.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/K4os.Compression.LZ4.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/K4os.Compression.LZ4.Streams.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/K4os.Hash.xxHash.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.CodeAnalysis.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.Data.SqlClient.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.Identity.Client.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/MySql.Data.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Ubiety.Dns.Core.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Zstandard.Net.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Newtonsoft.Json.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/System.Composition.AttributedModel.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/System.Composition.Convention.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/System.Composition.Hosting.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/System.Composition.Runtime.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/System.Composition.TypedParts.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/System.Runtime.Caching.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/WebPeople.csproj.AssemblyReference.cache
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/WebPeople.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/WebPeople.AssemblyInfoInputs.cache
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/WebPeople.AssemblyInfo.cs
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/WebPeople.csproj.CoreCompileInputs.cache
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/WebPeople.MvcApplicationPartsAssemblyInfo.cache
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/WebPeople.RazorAssemblyInfo.cache
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/WebPeople.RazorAssemblyInfo.cs
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/staticwebassets/WebPeople.StaticWebAssets.Manifest.cache
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/staticwebassets/WebPeople.StaticWebAssets.xml
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/scopedcss/bundle/WebPeople.styles.css
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/WebPeople.TagHelpers.input.cache
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/WebPeople.TagHelpers.output.cache
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/WebPeople.RazorCoreGenerate.cache
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/Razor/Views/People/Create.cshtml.g.cs
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/Razor/Views/People/Delete.cshtml.g.cs
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/Razor/Views/People/Details.cshtml.g.cs
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/Razor/Views/People/Edit.cshtml.g.cs
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/Razor/Views/People/Index.cshtml.g.cs
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/WebPeople.RazorTargetAssemblyInfo.cache
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/WebPeople.RazorTargetAssemblyInfo.cs
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/WebPeople.Views.pdb
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/WebPeople.csproj.CopyComplete
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/WebPeople.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/ref/WebPeople.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/WebPeople.pdb
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/obj/Release/net5.0/WebPeople.genruntimeconfig.cache
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.Azure.KeyVault.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.Azure.KeyVault.WebKey.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.Azure.Management.AppService.Fluent.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.Azure.Management.Graph.RBAC.Fluent.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.Azure.Management.KeyVault.Fluent.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.Azure.Management.Msi.Fluent.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.Azure.Management.ResourceManager.Fluent.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.Azure.Management.Storage.Fluent.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.Rest.ClientRuntime.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.Rest.ClientRuntime.Azure.dll
+/Users/ricardoasin/Desktop/Programación Aplicada/projects/WebPeople/People/WebPeople/bin/Release/net5.0/Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\appsettings.Development.json
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\appsettings.json
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\WebPeople.exe
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\WebPeople.deps.json
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\WebPeople.runtimeconfig.json
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\WebPeople.runtimeconfig.dev.json
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\WebPeople.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\ref\WebPeople.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\WebPeople.pdb
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\WebPeople.Views.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\WebPeople.Views.pdb
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\BouncyCastle.Crypto.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Google.Protobuf.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Humanizer.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\K4os.Compression.LZ4.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\K4os.Hash.xxHash.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.Azure.KeyVault.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.Azure.Management.AppService.Fluent.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.Azure.Management.Graph.RBAC.Fluent.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.Azure.Management.KeyVault.Fluent.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.Azure.Management.Msi.Fluent.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.Azure.Management.ResourceManager.Fluent.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.Azure.Management.Storage.Fluent.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\MySql.Data.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Ubiety.Dns.Core.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Zstandard.Net.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\System.Composition.Convention.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\System.Composition.Hosting.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\System.Composition.Runtime.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\System.Composition.TypedParts.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\System.Runtime.Caching.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\WebPeople.csproj.AssemblyReference.cache
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\WebPeople.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\WebPeople.AssemblyInfoInputs.cache
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\WebPeople.AssemblyInfo.cs
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\WebPeople.csproj.CoreCompileInputs.cache
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\WebPeople.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\WebPeople.RazorAssemblyInfo.cache
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\WebPeople.RazorAssemblyInfo.cs
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\staticwebassets\WebPeople.StaticWebAssets.Manifest.cache
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\staticwebassets\WebPeople.StaticWebAssets.xml
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\scopedcss\bundle\WebPeople.styles.css
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\WebPeople.TagHelpers.input.cache
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\WebPeople.TagHelpers.output.cache
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\WebPeople.RazorCoreGenerate.cache
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\Razor\Views\People\Create.cshtml.g.cs
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\Razor\Views\People\Delete.cshtml.g.cs
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\Razor\Views\People\Details.cshtml.g.cs
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\Razor\Views\People\Edit.cshtml.g.cs
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\Razor\Views\People\Index.cshtml.g.cs
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\WebPeople.RazorTargetAssemblyInfo.cache
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\WebPeople.RazorTargetAssemblyInfo.cs
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\WebPeople.Views.pdb
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\WebPeople.csproj.CopyComplete
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\WebPeople.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\ref\WebPeople.dll
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\WebPeople.pdb
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\obj\Release\net5.0\WebPeople.genruntimeconfig.cache
+C:\Users\ricardoasin\source\repos\WebPeople\WebPeople\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Design.dll
