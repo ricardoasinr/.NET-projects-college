@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\Programación Aplicada\\PeopleJWT\\ApiPeopleJWT\\ApiPeopleJWT.csproj": {}
+    "\\\\Mac\\Home\\Desktop\\Programación Aplicada\\Practicas para segundo parcial\\PeopleJWT\\ApiPeopleJWT\\ApiPeopleJWT.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\Programación Aplicada\\PeopleJWT\\ApiPeopleJWT\\ApiPeopleJWT.csproj": {
+    "\\\\Mac\\Home\\Desktop\\Programación Aplicada\\Practicas para segundo parcial\\PeopleJWT\\ApiPeopleJWT\\ApiPeopleJWT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Programación Aplicada\\PeopleJWT\\ApiPeopleJWT\\ApiPeopleJWT.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Programación Aplicada\\Practicas para segundo parcial\\PeopleJWT\\ApiPeopleJWT\\ApiPeopleJWT.csproj",
         "projectName": "ApiPeopleJWT",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\Programación Aplicada\\PeopleJWT\\ApiPeopleJWT\\ApiPeopleJWT.csproj",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\Programación Aplicada\\Practicas para segundo parcial\\PeopleJWT\\ApiPeopleJWT\\ApiPeopleJWT.csproj",
         "packagesPath": "C:\\Users\\ricardoasin\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\Programación Aplicada\\PeopleJWT\\ApiPeopleJWT\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\Programación Aplicada\\Practicas para segundo parcial\\PeopleJWT\\ApiPeopleJWT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ricardoasin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,7 +48,7 @@
               "target": "Package",
               "version": "[5.0.10, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.11, )"
             },
